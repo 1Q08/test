@@ -5,6 +5,7 @@ first test
   second test
 # third test
 fourth test
-  - feature-A
+  - feature-A  
+
 fifth test
   - fix-B

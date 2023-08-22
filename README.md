@@ -8,4 +8,6 @@ fourth test
   - feature-A  
 
 fifth test
-  - fix-B
+  - fix-B  
+sixth test
+  - feature-C
